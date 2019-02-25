@@ -1,0 +1,7 @@
+C:\Users\Win10\Documents\Formula\Formula\bin\Debug\Formula.exe.config
+C:\Users\Win10\Documents\Formula\Formula\bin\Debug\Formula.exe
+C:\Users\Win10\Documents\Formula\Formula\bin\Debug\Formula.pdb
+C:\Users\Win10\Documents\Formula\Formula\obj\Debug\Formula.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Documents\Formula\Formula\obj\Debug\Formula.exe
+C:\Users\Win10\Documents\Formula\Formula\obj\Debug\Formula.pdb
+C:\Users\Win10\Documents\Formula\Formula\obj\Debug\Formula.csprojAssemblyReference.cache
